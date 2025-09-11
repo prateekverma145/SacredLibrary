@@ -146,7 +146,7 @@ export const books: Book[] = [
   },
   {
     "id": 5,
-    "title": "आध्यात्मिक पटोरी",
+    "title": "आध्यात्मिक पोटरी",
     "author": "सुरेशादयाल जी ",
     "cover": "https://prateekstore123.blob.core.windows.net/contaner1/adyatmikPatori.jpg",
     "description": "आध्यात्मिक ज्ञान का एक खजाना, जिसमें साधक के दैनिक जीवन के लिए विभिन्न छोटी शिक्षाएं, उपाख्यान और मार्गदर्शन शामिल हैं।",
