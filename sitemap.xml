@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Homepage -->
+  <url>
+    <loc>https://sacred-library.vercel.app/</loc>
+  </url>
 
-<url>
-  <loc>https://sacred-library.vercel.app/</loc>
-  <lastmod>2026-04-08T05:16:25+00:00</lastmod>
-</url>
-
+  <!-- Book Links -->
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/AatmbodhMala.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Naamdaan ki tayiyari.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Aatmbodh.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Paramgyaan.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/adhyatmikPatori.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/ParamVarhi.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Advaita_Bhakti.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/poorn Adhyatmik Safar.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Agayani Jeev.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Prathna.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Andar se dhoye daro tou jane.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Ram_Kripa.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Aproksh Bhakti.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Saar Ka Saar.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Dhar_Kaise.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Saar Vani.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Fakir.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/sadguru mahima.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/GeetaSaar.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/satguruKiChetavni.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Jeev ka Dharm Yudh.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Satguru_Panth_Ki_Khoj.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/kalki Avtaran.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Satguru Panth.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Kalyug_Ka_Nilkalank.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/satgyankojane.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Maan ki dhara palto.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/SathSang Mala.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Mool gyaan hi saar.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Satnam.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Mukti_Path.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Satya_Khoj.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Naam daan ka saar.pdf</loc></url>
+  <url><loc>https://prateekstore123.blob.core.windows.net/contaner1/Satya Path.pdf</loc></url>
 
 </urlset>
