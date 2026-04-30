@@ -21,8 +21,8 @@ const HeroSection: React.FC = () => {
         <div className="max-w-6xl mx-auto">
           {/* Main Heading */}
           <h1 className="font-lora text-5xl md:text-7xl font-bold text-cream dark:text-slate-100 mb-6 leading-tight animate-slide-in-down">
-            Satguru Panth
-            <span className="block text-amber-500 dark:text-amber-400 mt-2 animate-slide-in-up animation-delay-300">Brahmagyan Sansthan</span>
+            Satguru Panth Books
+            <span className="block text-amber-500 dark:text-amber-400 mt-2 animate-slide-in-up animation-delay-300"> सतगुरु पंथ किताबें </span>
           </h1>
           
           <p className="text-xl md:text-2xl text-slate-300 dark:text-slate-400 mb-12 max-w-3xl mx-auto leading-relaxed animate-fade-in animation-delay-600">

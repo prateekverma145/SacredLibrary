@@ -133,7 +133,7 @@ export const books: Book[] = [
     "cover": "https://prateekstore123.blob.core.windows.net/contaner1/atmabodh.png",
     "description": "आत्मा (आत्मन) के ज्ञान पर एक आवश्यक ग्रंथ, जो शाश्वत स्व और अस्थायी भौतिक शरीर के बीच अंतर करता है।",
     "category": "Spiritual",
-    "link": "https://prateekstore123.blob.core.windows.net/contaner1/Aatmbodh.pdf"
+    "link": "https://prateekstore123.blob.core.windows.net/contaner1/Aatmbodh-.pdf"
   },
   {
     "id": 4,
