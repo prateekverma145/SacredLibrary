@@ -13,11 +13,17 @@ const Footer: React.FC = () => {
               <div className="bg-amber-500 dark:bg-amber-600 p-3 rounded-full group-hover:scale-110 transition-transform duration-300">
                 <BookOpen className="text-slate-900" size={24} />
               </div>
-              <h3 className="font-lora text-2xl font-bold group-hover:text-amber-400 transition-colors duration-300">Sacred Wisdom Library</h3>
+              <h3 className="font-lora text-2xl font-bold group-hover:text-amber-400 transition-colors duration-300">Satguru Panth Books</h3>
             </div>
             <p className="text-slate-300 dark:text-slate-400 text-lg leading-relaxed mb-6 max-w-md transition-colors duration-300">
-              Your sanctuary for spiritual growth and enlightenment. Discover timeless wisdom 
-              through our carefully curated collection of transformative texts.
+              <p className="text-sm text-gray-500 leading-relaxed">
+  Satguru Panth Books is a digital spiritual library dedicated to providing
+  Sureshadayal ki kitabe, Sureshadayal ji ki kitabe, Radhaswami ki kitabe,
+  Satguru Panth Kitabe, spiritual books, dharmik pustak, and sacred teachings
+  in Hindi and English. Explore timeless wisdom, meditation guidance, आत्मिक ज्ञान,
+  spiritual enlightenment, and divine teachings through our collection of
+  spiritual books and sacred literature online.
+</p>
             </p>
             <div className="flex gap-4">
               <a href="#" className="bg-slate-800 dark:bg-slate-700 hover:bg-amber-500 dark:hover:bg-amber-600 p-3 rounded-full transition-all duration-300 hover:scale-110 transform">
@@ -54,11 +60,12 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center gap-3 text-slate-300 dark:text-slate-400 hover:text-amber-400 transition-colors duration-300 group">
                 <Phone size={18} />
-                <span>+1 (555) 123-WISE</span>
+                <span>+91 9984257903</span>
               </li>
               <li className="flex items-start gap-3 text-slate-300 dark:text-slate-400 hover:text-amber-400 transition-colors duration-300 group">
                 <MapPin size={18} className="mt-1" />
-                <span>123 Serenity Lane<br />Peaceful Valley, CA 90210</span>
+                <span>ब्रह्मज्ञान योग संस्थान मोचकला, बिसवां
+                <br /> उ○ प्र○, भारत</span>
               </li>
             </ul>
           </div>
@@ -66,7 +73,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-slate-700 dark:border-slate-600 mt-12 pt-8 text-center">
           <p className="text-slate-400 dark:text-slate-500">
-            © 2025 Sacred Wisdom Library. All rights reserved. | 
+            © 2025 Satguru Panth Library. All rights reserved. | 
             <a href="#" className="hover:text-amber-500 dark:hover:text-amber-400 transition-colors duration-300 ml-1">Privacy Policy</a> | 
             <a href="#" className="hover:text-amber-500 dark:hover:text-amber-400 transition-colors duration-300 ml-1">Terms of Service</a>
           </p>

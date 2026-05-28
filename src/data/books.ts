@@ -372,7 +372,7 @@ export const books: Book[] = [
   {
     "id": 30,
     "title": "सतनाम",
-    "author": "सुरेशादयाल जी ",
+    "author": "सुरेशादयाल जी",
     "cover": "https://prateekstore123.blob.core.windows.net/contaner1/agyaniJeev.png",
     "description": "'सतनाम' (सच्चा नाम) पर एक ध्यान, जो दिव्य वास्तविकता से जुड़ने के एक उपकरण के रूप में इसके अर्थ और महत्व की खोज करता है।",
     "category": "Spiritual",
@@ -381,7 +381,7 @@ export const books: Book[] = [
   {
     "id": 31,
     "title": "मुक्ति पथ",
-    "author": "सुरेशादयाल जी ",
+    "author": "सुरेशादयाल जी",
     "cover": "https://prateekstore123.blob.core.windows.net/contaner1/agyaniJeev.png",
     "description": "'मुक्ति पथ' को प्रकाशित करता है, जो जन्म और मृत्यु के चक्र से मुक्त होने के लिए आवश्यक आध्यात्मिक अनुशासन और समझ की रूपरेखा तैयार करता है।",
     "category": "Spiritual",
@@ -413,5 +413,60 @@ export const books: Book[] = [
     "description": "'सत्य पथ' का विवरण, जो धार्मिकता, अखंडता और परम आध्यात्मिक वास्तविकता के साथ संरेखण पर आधारित जीवन का एक तरीका है।",
     "category": "Spiritual",
     "link": "https://prateekstore123.blob.core.windows.net/contaner1/Satya Path.pdf"
+  },
+  {
+    "id": 35,
+    "title": "हमको चाहिए",
+    "author": "सुरेशादयाल जी ",
+    "cover": "https://prateekstore123.blob.core.windows.net/contaner1/agyaniJeev.png",
+    "description": "आत्मज्ञान, भक्ति और सतगुरु-पंथ का यह संदेश जीवन को शांति, प्रेम, समर्पण और सच्चे आत्मरूप की ओर ले जाता है।",
+    "category": "Spiritual",
+    "link": "https://prateekstore123.blob.core.windows.net/contaner1/book1.pdf"
+  },
+  {
+    "id": 36,
+    "title": "केवल न्यारा होना है",
+    "author": "सुरेशादयाल जी ",
+    "cover": "https://prateekstore123.blob.core.windows.net/contaner1/agyaniJeev.png",
+    "description": "यह पुस्तक आत्मज्ञान, निष्काम कर्म, प्रेम, शांति और परमात्मा से जुड़कर जीवन को सरल, मुक्त और सफल बनाने का संदेश देती है।",
+    "category": "Spiritual",
+    "link": "https://prateekstore123.blob.core.windows.net/contaner1/book2.pdf"
+  },
+  {
+    "id": 37,
+    "title": "विराट बनो",
+    "author": "सुरेशादयाल जी ",
+    "cover": "https://prateekstore123.blob.core.windows.net/contaner1/book3.png",
+    "description": "यह पुस्तक आत्मा, परमात्मा, कर्म, मोक्ष और सतगुरु ज्ञान द्वारा जीवन को दिव्यता तथा शांति की ओर ले जाती है।",
+    "category": "Spiritual",
+    "link": "https://prateekstore123.blob.core.windows.net/contaner1/book3.pdf"
+  },
+  {
+    "id": 38,
+    "title": "सत्यनारायण की सत्यकथा",
+    "author": "सुरेशादयाल जी ",
+    "cover": "https://prateekstore123.blob.core.windows.net/contaner1/agyaniJeev.png",
+    "description": "यह पुस्तक आत्मा, परमात्मा, कर्म, मोक्ष और सतगुरु ज्ञान द्वारा जीवन को दिव्यता तथा शांति की ओर ले जाती है।",
+    "category": "Spiritual",
+    "link": "https://prateekstore123.blob.core.windows.net/contaner1/book4.pdf"
+  }
+  ,
+  {
+    "id": 39,
+    "title": "ज्ञान गंगा",
+    "author": "सुरेशादयाल जी ",
+    "cover": "https://prateekstore123.blob.core.windows.net/contaner1/agyaniJeev.png",
+    "description": "यह पुस्तक आत्मा, परमात्मा, कर्म, मोक्ष और सतगुरु ज्ञान द्वारा जीवन को दिव्यता तथा शांति की ओर ले जाती है।",
+    "category": "Spiritual",
+    "link": "https://prateekstore123.blob.core.windows.net/contaner1/book5.pdf"
+  },
+  {
+    "id": 40,
+    "title": "सतगुरु पंथ के 21 प्रश्न व उनके उत्तर ",
+    "author": "सुरेशादयाल जी ",
+    "cover": "https://prateekstore123.blob.core.windows.net/contaner1/agyaniJeev.png",
+    "description": " सतगुरु पंथ के 21 प्रश्न व उनके उत्तर ",
+    "category": "Spiritual",
+    "link": "https://prateekstore123.blob.core.windows.net/contaner1/21Q&A.pdf"
   }
 ]

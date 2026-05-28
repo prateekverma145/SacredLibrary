@@ -24,7 +24,12 @@ const HeroSection: React.FC = () => {
             Satguru Panth Books
             <span className="block text-amber-500 dark:text-amber-400 mt-2 animate-slide-in-up animation-delay-300"> सतगुरु पंथ किताबें </span>
           </h1>
-          
+           <h2 className="block text-amber-500 dark:text-amber-400 mt-2 text-xl animate-slide-in-up animation-delay-300">
+            Sureshadayal Books | सुरेशादयाल की किताबे
+          </h2>
+<h3 className="hidden">
+  Sureshadayal ki kitabe | sureshadayal ji ki kitabe | radhaswami ki kitabe
+</h3>          
           <p className="text-xl md:text-2xl text-slate-300 dark:text-slate-400 mb-12 max-w-3xl mx-auto leading-relaxed animate-fade-in animation-delay-600">
             Discover transformative spiritual texts and timeless wisdom in our curated collection of enlightening books
           </p>
@@ -81,7 +86,7 @@ const HeroSection: React.FC = () => {
                   <img
                     // IMPORTANT: Replace this src with the actual URL of your author's photo
                     src="https://prateekstore123.blob.core.windows.net/contaner1/author-banner.png" // Placeholder using your uploaded image
-                    alt="परम संत सद्गुरु वक्त सुरेशदयाल जी महाराज"
+                    alt="परम संत सद्गुरु वक्त सुरेशादयाल जी महाराज"
                     className="w-full h-auto object-cover rounded-xl shadow-xl border-4 border-amber-500/50 dark:border-amber-400/50 transform transition-transform duration-500 hover:scale-105"
                   />
                 </div>
@@ -91,7 +96,7 @@ const HeroSection: React.FC = () => {
                     संस्थापक
                   </p>
                   <h3 className="font-lora text-3xl md:text-4xl font-bold text-cream dark:text-slate-100 mb-4">
-                    परम संत सद्गुरु वक्त सुरेशदयाल जी महाराज
+                    परम संत सद्गुरु वक्त सुरेशादयाल जी महाराज
                   </h3>
                   <p className="text-slate-300 dark:text-slate-400 text-lg leading-relaxed">
                     साहित्य के क्षेत्र में, लेखक वास्तुकार बन जाते हैं, सावधानीपूर्वक जटिल कहानियाँ गढ़ते हैं जो दिल और दिमाग के बीच पुल बनाते हैं।
