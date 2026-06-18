@@ -421,7 +421,7 @@ export const books: Book[] = [
     "cover": "https://prateekstore123.blob.core.windows.net/contaner1/agyaniJeev.png",
     "description": "आत्मज्ञान, भक्ति और सतगुरु-पंथ का यह संदेश जीवन को शांति, प्रेम, समर्पण और सच्चे आत्मरूप की ओर ले जाता है।",
     "category": "Spiritual",
-    "link": "https://prateekstore123.blob.core.windows.net/contaner1/book1.pdf"
+    "link": "https://prateekstore123.blob.core.windows.net/contaner1/hamkoChahiye.pdf"
   },
   {
     "id": 36,
@@ -468,5 +468,14 @@ export const books: Book[] = [
     "description": " सतगुरु पंथ के 21 प्रश्न व उनके उत्तर ",
     "category": "Spiritual",
     "link": "https://prateekstore123.blob.core.windows.net/contaner1/21Q&A.pdf"
+  },
+  {
+    "id": 41,
+    "title": "सतगुरु पंथ में नया क्या है ",
+    "author": "सुरेशादयाल जी ",
+    "cover": "https://prateekstore123.blob.core.windows.net/contaner1/SatMeNayaKya.png",
+    "description": " सतगुरु पंथ की नयी बातें ",
+    "category": "Spiritual",
+    "link": "https://prateekstore123.blob.core.windows.net/contaner1/satgurupanthMeNayaKyaHai.pdf"
   }
 ]

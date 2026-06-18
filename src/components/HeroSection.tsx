@@ -1,5 +1,6 @@
 import React from 'react';
 import { BookOpen, Star } from 'lucide-react';
+import { Link } from "react-router-dom";
 
 const HeroSection: React.FC = () => {
   return (
@@ -64,13 +65,22 @@ const HeroSection: React.FC = () => {
                     केवल “मन” को सन्मुख कराके मन को पूर्ण कराया जाता है । पूर्ण मन जो भी सोंचेगा वह सब पूरा होगा ।
                   </p>
                   <div className="flex flex-col sm:flex-row gap-4">
-                    <button className="bg-amber-500 hover:bg-amber-600 dark:bg-amber-600 dark:hover:bg-amber-500 text-slate-900 px-8 py-4 rounded-full font-semibold flex items-center justify-center gap-2 transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105 transform">
-                      <BookOpen size={20} />
-                      Start Reading
-                    </button>
+                                      <div className="mt-6">
+  <Link
+    to="/satguru-panth"
+    className="bg-amber-500 hover:bg-amber-600
+               text-slate-900
+               px-6 py-3 rounded-full
+               font-semibold
+               transition-all duration-300"
+  >
+    सतगुरु पंथ की विसेस्ताएं पढ़े 
+  </Link>
+</div>
                     <button className="border-2 border-amber-500 dark:border-amber-400 text-amber-500 dark:text-amber-400 hover:bg-amber-500 dark:hover:bg-amber-400 hover:text-slate-900 px-8 py-4 rounded-full font-semibold transition-all duration-300 hover:scale-105 transform">
                       <a href='https://satguru-panth.vercel.app/'> Visit</a>
                     </button>
+ 
                   </div>
                 </div>
               </div>
